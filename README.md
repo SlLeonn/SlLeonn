@@ -27,8 +27,8 @@ I'm an Electronic Engineering undergraduate student with a strong interest in Qu
 
 ![Python](https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/pytorch-%23EE4C2C.svg?style=for-the-badge&logo=pytorch&logoColor=white)
-![PennyLane](https://img.shields.io/badge/PennyLane-Quantum%20ML-%236f42c1.svg?style=for-the-badge)
-![Qiskit](https://img.shields.io/badge/Qiskit-Quantum%20Computing-%236929C4.svg?style=for-the-badge)
+![PennyLane](https://img.shields.io/badge/PennyLane-%236f42c1.svg?style=for-the-badge)
+![Qiskit](https://img.shields.io/badge/Qiskit-%236929C4.svg?style=for-the-badge)
 ![Scikit Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikitlearn&logoColor=white)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
@@ -54,9 +54,6 @@ I'm an Electronic Engineering undergraduate student with a strong interest in Qu
 
 ### 📊 GitHub Stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SlLeonn&layout=compact&theme=tokyonight)
-
-<br>
 
 <a href="https://komarev.com/ghpvc/?username=SlLeonn&style=for-the-badge">
     <img src="https://komarev.com/ghpvc/?username=SlLeonn&style=for-the-badge&color=blueviolet">
