@@ -1,9 +1,9 @@
 <img align="right" src="https://raw.githubusercontent.com/SlLeonn/SlLeonn/main/github-profile.png" width="30%">
 
-<h1>
+<h3>
   Hi There, I'm Javier Leon
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-</h1>
+</h3>
 
 <p>
 I'm an Electronic Engineering undergraduate student with a strong interest in Quantum Machine Learning, Quantum Computing, Machine Learning and Signal Processing.
