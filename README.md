@@ -1,4 +1,4 @@
-<img align="right" src="https://raw.githubusercontent.com/SlLeonn/SlLeonn/main/github-profile.png" width="30%">
+<img align="right" src="https://cdn.theatlantic.com/thumbor/1XKqsAKmQUrICS20f_aIzeiDTGA=/51x26:1112x623/976x549/media/img/mt/2016/11/Quanta_Brain_Lead_Edited_Size/original.gif" width="38%">
 
 <h3>
   Hi There, I'm Javier Leon
